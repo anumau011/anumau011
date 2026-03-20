@@ -35,9 +35,12 @@
 `Excel` `VBA` `Python Automation` `Data Analysis`
 
 ---
+## 📊 GitHub Stats
 
-## 📈 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anumau011&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=anumau011&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anumau011&layout=compact&theme=tokyonight)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anumau011&theme=tokyo-night)
 ---
 
 ## 📫 Connect With Me  
